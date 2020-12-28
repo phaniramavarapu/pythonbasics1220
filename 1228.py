@@ -12,4 +12,46 @@
 # else:
 #     print("num2 is great")
 
+# def hello():
+#     print("hello world")
+#     print("hello again")
+#
+# hello()
+
+# def getInteger():
+#     result = int(input("enter integer: "))
+#     return result
+#
+# def main():
+#
+#     print("started")
+#
+#     output = getInteger()
+#     print(output)
+#
+# if __name__=="__main__":
+#     main()
+
+
+import keyword
+
+keys = ["for", "while", "tanisha", "break", "sky",
+"elif", "assert", "pulkit", "lambda", "else", "sakshar"]
+
+for i in range(len(keys)):
+    ord.iskey
+    if keywword(keys[i]):
+        print(keys[i] + "is a python keyword")
+
+    else:
+        print(keys[i] + "is not a python keyword")
+
+
+
+
+
+
+
+
+
 
